@@ -1,0 +1,62 @@
+{
+  "c": {
+    "name": "C",
+    "description": "C language projects",
+    "color": "#0F4A86"
+  },
+  "c++": {
+    "name": "C++",
+    "description": "C++ language projects",
+    "color": "#3082FF"
+  },
+  "c#": {
+    "name": "C#",
+    "description": "C# / .NET development",
+    "color": "#68207B"
+  },
+  "godot": {
+    "name": "Godot",
+    "description": "Game development using Godot engine",
+    "color": "#5D9AC8"
+  },
+  "java": {
+    "name": "Java",
+    "description": "Java development",
+    "color": "#C88101"
+  },
+  "javascript": {
+    "name": "JavaScript",
+    "description": "JavaScript/Web projects",
+    "color": "#F0DC53"
+  },
+  "kotlin": {
+    "name": "Kotlin",
+    "description": "Kotlin language development",
+    "color": "#8357FF"
+  },
+  "mods": {
+    "name": "Mods",
+    "description": "Game modding",
+    "color": "#52A434"
+  },
+  "python": {
+    "name": "Python",
+    "description": "Python scripts and projects",
+    "color": [["#336C99", 0, 2], ["#FECD3B", 3, 5]]
+  },
+  "rust": {
+    "name": "Rust",
+    "description": "Rust development",
+    "color": "#D34516"
+  },
+  "robotics": {
+    "name": "Robotics",
+    "description": "Robotics work (e.g. FTC, FRC)",
+    "color": [["#EE161E", 0, 2], ["#FFFFFF", 3, 4], ["#0166B4", 5, 7]]
+  },
+  "unity": {
+    "name": "Unity",
+    "description": "Unity game engine projects",
+    "color": "#808080"
+  }
+}
