@@ -66,7 +66,7 @@ For now, you can customize by editing `project_types.json` directly. Here’s an
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/projects-directory-tool.git
+git clone https://github.com/CrownSheep/projects-directory-tool.git
 cd projects-directory-tool
 npm install
 npm link
