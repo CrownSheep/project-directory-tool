@@ -64,7 +64,9 @@ For now, you can customize by editing `project_types.json` directly. Here’s an
 ---
 
 ## 🚀 Installation
-
+Download the `projects-directory-tool.exe` from the releases tab and make sure to download the `project_types.json` as well, make sure to put it in the same directory as the exe.
+&nbsp;
+### 🔨 Manual Building
 ```bash
 git clone https://github.com/CrownSheep/projects-directory-tool.git
 cd projects-directory-tool
@@ -75,7 +77,7 @@ npm link
 
 ## 🕹️ Usage
 
-After building the tool, you can run it from the terminal:
+After either downloading the exe or manually building the tool, you can run it from the terminal:
 
 ### ✅ Create a `Projects` directory and select project types
 
